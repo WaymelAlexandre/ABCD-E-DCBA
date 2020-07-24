@@ -1,0 +1,12 @@
+
+/*
+ABCD * E = DCBA;
+ABDC can not be the same digit 
+*/ 
+
+E can not be = 1 because the reslut need to be the invresse of the input 
+    so E start by 2
+
+A can not be >= 5  because E=2 so  5*2=10 so add one more digit to the input so not the same output 
+
+
